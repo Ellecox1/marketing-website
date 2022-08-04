@@ -17,4 +17,5 @@ Actions made:
 
 Here is the DEMO website:
 
-file:///C:/Users/Elle/fullstack-eng/urban-octo-telegram/Develop/index.html
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108504537/182766452-b26fd296-c263-445c-b57e-8a0bfd19b380.png)
+
